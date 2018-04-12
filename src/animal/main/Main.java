@@ -1,10 +1,11 @@
 package animal.main;
+import animal.animals.*;
 
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		Homme toto  = new Homme();
+		System.out.println(toto.getAge());
 	}
 
 }

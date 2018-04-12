@@ -10,6 +10,10 @@ public abstract class Animal {
 		this.taille=0;
 		this.nom=" ";
 	}	
+	
+	public int getAge() {
+		return this.age;
+	}
 		
 	public void manger(Aliment aliment) {
 		
