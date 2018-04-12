@@ -1,3 +1,4 @@
+package animal.animal;
 
 public abstract class Animal {
 	private int age, poids, taille;
