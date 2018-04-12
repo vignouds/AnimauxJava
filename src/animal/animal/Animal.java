@@ -1,14 +1,17 @@
 package animal.animal;
+import animal.regime.*;
 
 public abstract class Animal {
 	private int age, poids, taille;
 	private String nom;
+	private Regime regime;
 	
 	public Animal() {
 		this.age=0;
 		this.poids=0;
 		this.taille=0;
 		this.nom=" ";
+		this.regime=new Regime();
 	}	
 	
 	public int getAge() {
@@ -19,9 +22,7 @@ public abstract class Animal {
 		this.age=age;
 	}
 		
-	public void manger(Aliment aliment) {
-		
-	}
+	public abstract void manger();
 		
 	//deplacer()
 	
