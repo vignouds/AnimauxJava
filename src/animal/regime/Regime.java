@@ -1,6 +1,6 @@
 package animal.regime;
 
-public class Regime {
+public abstract class Regime {
 	public Regime() {
 		
 	}

@@ -1,7 +1,7 @@
 package animal.regime;
 import animal.animal.*;
 
-public abstract class Omnivore extends Animal {
+public abstract class Omnivore extends Regime {
 	public Omnivore() {
 		super();
 	}

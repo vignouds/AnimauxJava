@@ -11,7 +11,6 @@ public abstract class Animal {
 		this.poids=0;
 		this.taille=0;
 		this.nom=" ";
-		this.regime=new Regime();
 	}	
 	
 	public int getAge() {
