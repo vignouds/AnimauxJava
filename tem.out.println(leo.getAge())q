@@ -1,0 +1,83 @@
+[33mcommit cdfd74f589b3c17d21124379e7e875d9849e6dc1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Sébastien Vignoud <sebastien.vignoud@gmail.com>
+Date:   Thu Apr 12 12:31:50 2018 +0200
+
+    remove unused packages
+
+[33mcommit 962c470c71e43a254a82dd001de55b3dcf72539a[m
+Author: Sébastien Vignoud <sebastien.vignoud@gmail.com>
+Date:   Thu Apr 12 12:29:51 2018 +0200
+
+    fonction manger dans Herbivore...
+
+[33mcommit 5c7ce0eea36b143f097a6b49085e2943177d11ac[m
+Author: Sébastien Vignoud <sebastien.vignoud@gmail.com>
+Date:   Thu Apr 12 12:27:23 2018 +0200
+
+    Homme, Lapin... hertitent d'animals, Herbivore... heritent de Regime
+
+[33mcommit 92149d69f1fc38374d4ba9c1c023d2fe6432f299[m
+Author: Sébastien Vignoud <sebastien.vignoud@gmail.com>
+Date:   Thu Apr 12 12:18:10 2018 +0200
+
+    implementation de manger(), creation de la classe regime
+
+[33mcommit e61596e48e6da94b28fa330b001efda913140693[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Sébastien Vignoud <sebastien.vignoud@gmail.com>
+Date:   Thu Apr 12 11:54:59 2018 +0200
+
+    ajout de setAge
+
+[33mcommit 33eee5f6a03f8dd16a1201070b179ce72db6bb05[m
+Author: Sébastien Vignoud <sebastien.vignoud@gmail.com>
+Date:   Thu Apr 12 11:51:31 2018 +0200
+
+    ajout de getAge() et instancisation de Homme dans main pour test
+
+[33mcommit 0e9e0246658eedcf77d78d774f526ad636472d47[m
+Author: Sébastien Vignoud <sebastien.vignoud@gmail.com>
+Date:   Thu Apr 12 11:47:22 2018 +0200
+
+    creation package animal.main et classe Main
+
+[33mcommit ec4e05b370ec481a3bc829cb64b2d28d1fb05d1f[m
+Author: Sébastien Vignoud <sebastien.vignoud@gmail.com>
+Date:   Thu Apr 12 11:34:20 2018 +0200
+
+    creation de la mthode manger (vide)
+
+[33mcommit b800c7914b12053b685b9ddf4a30747b83156577[m
+Author: Sébastien Vignoud <sebastien.vignoud@gmail.com>
+Date:   Thu Apr 12 11:30:11 2018 +0200
+
+    ajout d'attributs a aliments
+
+[33mcommit 721674e55ef5620d7d59a65ad2cde356f0a5346b[m
+Author: Sébastien Vignoud <sebastien.vignoud@gmail.com>
+Date:   Thu Apr 12 11:27:19 2018 +0200
+
+    creation des classes Homme Hyene Lion avec constructeurs
+
+[33mcommit 2d35e64460df7eeaced6ac72dc09f32e7879beb6[m
+Author: Sébastien Vignoud <sebastien.vignoud@gmail.com>
+Date:   Thu Apr 12 11:19:16 2018 +0200
+
+    creation package animal.animals et classe lapin avec constructeur
+
+[33mcommit 9d6b628d32a163ae0461755d55f05598b1fb3856[m
+Author: Sébastien Vignoud <sebastien.vignoud@gmail.com>
+Date:   Thu Apr 12 11:15:45 2018 +0200
+
+    Aliment et Animal places dans pakage animal.animal, creation package animal.regime avec classes Carnivore, Herbivore et Omnivore avec constructeur à chaque fois
+
+[33mcommit 01e436c0357e2fa17179d314320e609a243b8724[m
+Author: Sébastien Vignoud <sebastien.vignoud@gmail.com>
+Date:   Thu Apr 12 10:57:45 2018 +0200
+
+    creation classe Aliment avec constructeur vide
+
+[33mcommit fb5562f598ec2c903c8b04381f118f314ae6a5ca[m
+Author: Sébastien Vignoud <sebastien.vignoud@gmail.com>
+Date:   Thu Apr 12 10:56:36 2018 +0200
+
+    creation classe Animal avec constructeur

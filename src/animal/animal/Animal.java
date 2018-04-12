@@ -17,12 +17,16 @@ public abstract class Animal {
 		return this.age;
 	}
 	
+	public String getRegime() {
+		return "("+this.regime+")";
+	}
+	
 	public void setAge(int age) {
 		this.age=age;
 	}
 		
-	public void manger() {
-		
+	public String manger(){
+		return " ";
 	}
 		
 	//deplacer()

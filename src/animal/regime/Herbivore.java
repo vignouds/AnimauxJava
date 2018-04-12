@@ -5,6 +5,7 @@ public class Herbivore extends Regime {
 		super();
 	}
 	
-	public void manger() {
+	public String manger() {
+		return "je mange des végétaux";
 	}
 }

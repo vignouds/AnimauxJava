@@ -6,6 +6,7 @@ public class Carnivore extends Regime {
 	}
 	
 	public String manger() {
-		return "je mange de la viande";
+		String str = "je mange de la viande";
+		return str;
 	}
 }
