@@ -9,8 +9,12 @@ public abstract class Animal {
 		this.poids=0;
 		this.taille=0;
 		this.nom=" ";
+	}	
 		
-		// manger(Aliment aliment)
-		//deplacer()
+	public void manger(Aliment aliment) {
+		
 	}
+		
+	//deplacer()
+	
 }
