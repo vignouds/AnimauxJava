@@ -2,7 +2,7 @@ package animal.regime;
 
 public class Herbivore extends Regime {
 	public Herbivore() {
-		super();
+		super("herbivore");
 	}
 	
 	public String manger() {

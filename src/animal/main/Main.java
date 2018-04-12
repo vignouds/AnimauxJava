@@ -9,7 +9,7 @@ public class Main {
 		System.out.println(leo.getAge());
 		leo.setAge(5);
 		System.out.println(leo.getAge());
-		System.out.println(leo.getRegime());
+		System.out.println(toto.getRegime());
 	}
 
 }

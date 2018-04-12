@@ -1,10 +1,14 @@
 package animal.regime;
 
 public abstract class Regime {
-	private String regime;
+	protected String regime;
 	
 	public Regime() {
 		this.regime=" ";
+	}
+	
+	public Regime(String s) {
+		this.regime=s;
 	}
 	
 	public String toString() {
