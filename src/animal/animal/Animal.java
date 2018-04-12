@@ -21,7 +21,9 @@ public abstract class Animal {
 		this.age=age;
 	}
 		
-	public abstract void manger();
+	public void manger() {
+		
+	}
 		
 	//deplacer()
 	

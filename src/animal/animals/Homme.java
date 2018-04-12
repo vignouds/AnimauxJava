@@ -7,9 +7,4 @@ public class Homme extends Animal {
 		super();
 	}
 
-	@Override
-	public void manger() {
-		// TODO Auto-generated method stub
-		
-	}
 }
