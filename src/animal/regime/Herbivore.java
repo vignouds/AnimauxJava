@@ -1,6 +1,6 @@
 package animal.regime;
 
-public abstract class Herbivore extends Regime {
+public class Herbivore extends Regime {
 	public Herbivore() {
 		super();
 	}

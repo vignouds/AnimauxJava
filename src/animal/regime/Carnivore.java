@@ -1,10 +1,11 @@
 package animal.regime;
 
-public abstract class Carnivore extends Regime {
+public class Carnivore extends Regime {
 	public Carnivore() {
 		super();
 	}
 	
-	public void manger() {
+	public String manger() {
+		return "je mange de la viande";
 	}
 }

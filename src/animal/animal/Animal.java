@@ -4,7 +4,7 @@ import animal.regime.*;
 public abstract class Animal {
 	private int age, poids, taille;
 	private String nom;
-	private Regime regime;
+	protected Regime regime;
 	
 	public Animal() {
 		this.age=0;
